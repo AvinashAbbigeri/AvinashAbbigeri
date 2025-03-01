@@ -41,8 +41,8 @@ If it’s customizable, I’ll customize it! Be it an OS, hardware, or software�
 
 ## 🌐 Let’s Connect!
 - **GitHub**: [github.com/yourusername](#)  
-- **LinkedIn**: [linkedin.com/in/yourprofile](#)  
-- **Instagram**: [instagram.com/yourprofile](#)  
+- **LinkedIn**: https://www.linkedin.com/in/avinash-abbigeri/(#)  
+- **Instagram**: https://www.instagram.com/avinash_abbigeri_(#)  
 
 Reach out if you want to brainstorm ideas, collaborate, or simply geek out over tech! 💬
 
