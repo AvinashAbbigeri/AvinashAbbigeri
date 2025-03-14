@@ -34,7 +34,7 @@ Hey there! I'm a curious and passionate **Information Science Engineering studen
 
 ---
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=AvinashAbbigeri)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=AvinashAbbigeri&theme=black-ice&hide_border=true&short_numbers=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 ## 😄 Fun Fact
 If it’s customizable, I’ll customize it! Be it an OS, hardware, or software—I love exploring how far things can go. 🔍⚡
